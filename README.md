@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/yasanth_vfx" target="blank"><img src="https://img.shields.io/twitter/follow/yasanth_vfx?logo=twitter&style=for-the-badge" alt="yasanth_vfx" /></a> </p>
 
-- 🔭 I’m currently working as a **UX Designer and a Freelancer.**
+- 🔭 I’m currently working as a **Freelancer.**
 
 - 👯 I’m a Computer Science Undergraduate **At University of Westminster**
 
