@@ -11,9 +11,9 @@
 
 - 👯 I’m a Computer Science Undergraduate **At University of Westminster**
 
-- ⚡ Take a look at my Personal Portfolio [www.yasanth.com](www.yasanth.com)
+- ⚡ Take a look at my Personal Portfolio [www.yasanth.com](https://www.yasanth.com)
 
-- 🌱 I’m working on building an AI App [Eventofy AI](www.eventofy.app)
+- 🌱 I’m working on building an AI App [Eventofy AI](https://www.eventofy.app)
 
 - 📫 How to reach me **yasanthdolamulla@gmail.com**
 
